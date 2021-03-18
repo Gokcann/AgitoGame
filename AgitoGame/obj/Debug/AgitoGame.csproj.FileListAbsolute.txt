@@ -1,0 +1,7 @@
+C:\Users\vaio\source\repos\AgitoGame\AgitoGame\bin\Debug\AgitoGame.exe.config
+C:\Users\vaio\source\repos\AgitoGame\AgitoGame\bin\Debug\AgitoGame.exe
+C:\Users\vaio\source\repos\AgitoGame\AgitoGame\bin\Debug\AgitoGame.pdb
+C:\Users\vaio\source\repos\AgitoGame\AgitoGame\obj\Debug\AgitoGame.csprojAssemblyReference.cache
+C:\Users\vaio\source\repos\AgitoGame\AgitoGame\obj\Debug\AgitoGame.csproj.CoreCompileInputs.cache
+C:\Users\vaio\source\repos\AgitoGame\AgitoGame\obj\Debug\AgitoGame.exe
+C:\Users\vaio\source\repos\AgitoGame\AgitoGame\obj\Debug\AgitoGame.pdb
