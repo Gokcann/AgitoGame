@@ -38,19 +38,6 @@ namespace AgitoGame
             Console.WriteLine("Seviye seçiniz(4,5,6,7,):");
             int choose;
 
-
-            //try
-            //{
-            //    readdata = Console.ReadLine();
-            //    int.Parse(readdata);
-            //    choose = Convert.ToInt32(readdata);
-            //}
-            //catch (Exception)
-            //{
-            //    Console.WriteLine("Hatalı Giriş!!\n\n");
-            //    StartGame();
-            //}
-
             while (!int.TryParse(Console.ReadLine(), out choose))
             {
                 Console.Write("Hatali Giriş!!");
@@ -72,17 +59,17 @@ namespace AgitoGame
         {
             //farkli rakamlardan olusan random sayiyi olusturma
             int[] foo = new int[ch];
-            //foo = CreateNumbers(ch);
+            foo = CreateNumbers(ch);
             /*
              * 
              * NOT: Dosyadaki ornek oyun ciktisini denemek icin 74. satiri yoruma alip 80-84. satirlari acin
              * 
              */
-            foo[0] = 4;
-            foo[1] = 6;
-            foo[2] = 2;
-            foo[3] = 8;
-            string_number = "4628";
+            //foo[0] = 4;
+            //foo[1] = 6;
+            //foo[2] = 2;
+            //foo[3] = 8;
+            //string_number = "4628";
 
 
             //rakamlari listeye aliyorum tek tek karsilastirmak icin
@@ -312,5 +299,7 @@ namespace AgitoGame
             
         }
 
+        
     }
-}
+
+    }
